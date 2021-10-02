@@ -1,0 +1,24 @@
+    body{
+        background-color: aliceblue;
+    }
+    hr{
+
+        border-style: none;
+        border-top-style: dotted;
+        border-width:5px;
+        border-color: blue;
+        background-color:white;
+        width:4%;
+    }
+    h1{
+        color: #66BFBF;
+        font-family: cursive;
+
+
+    }
+    h3{
+        color:green;
+    }
+    a{
+      text-decoration: none;
+    }
